@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-beautiful-video-recorder",
+  "_id": "react-native-beautiful-video-recorder@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-2oTn42B5+Uv0y6ulCsZgIfUeJjriLgvDJ71b5uJiAPb/lLTVZtBI1Td14M7PanYd0Bw77SGgH/UFcBqxd5dZgw==",
+  "_location": "/react-native-beautiful-video-recorder",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-beautiful-video-recorder",
+    "name": "react-native-beautiful-video-recorder",
+    "escapedName": "react-native-beautiful-video-recorder",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-beautiful-video-recorder/-/react-native-beautiful-video-recorder-2.0.1.tgz",
+  "_shasum": "3e66176edf2ad5a1af32091fbdbf193ab5be0b0a",
+  "_spec": "react-native-beautiful-video-recorder",
+  "_where": "/home/sohaibiii/Desktop/Projects/coaching89",
+  "author": {
+    "name": "hauvo"
+  },
+  "bugs": {
+    "url": "https://github.com/phuochau/react-native-beautiful-video-recorder/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "2.24.0"
+  },
+  "deprecated": false,
+  "description": "react-native-beautiful-video-recorder ===",
+  "homepage": "https://github.com/phuochau/react-native-beautiful-video-recorder#readme",
+  "keywords": [
+    "react-native",
+    "react-native-camera",
+    "react-native-components",
+    "react-native-beautiful-video-recorder"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "name": "react-native-beautiful-video-recorder",
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-camera": "3.13.0",
+    "react-native-vector-icons": "6.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuochau/react-native-beautiful-video-recorder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.1"
+}
